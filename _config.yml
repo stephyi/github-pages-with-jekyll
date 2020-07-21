@@ -1,7 +1,7 @@
+theme : minima
 title: me
 author: stephyi
 email: shiro@gmail.com
-theme : minima
 description: > # this means to ignore newlines until "baseurl:"
   abut myself.
 
